@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1817606826, guid: 1174126efda20409a889700c3c1fb447, type: 3}
+  m_Name: ExperienceSettings
+  m_EditorClassIdentifier: 
+  mainScene:
+    sceneReference: {fileID: 102900000, guid: 6a52726fb5ea4f54e83db2b963fc01a0, type: 3}
+    sceneName: PaperChase
+    scenePath: Assets/Experience/Eric's Assets/Scenes/PaperChase.unity
+    buildIndex: -1
+  loadingScene:
+    sceneReference: {fileID: 0}
+    sceneName: 
+    scenePath: 
+    buildIndex: -1
+  DisplayName: Paper Chase
+  Description: Chase Origiami down with paper planes!
+  Version: 1.0.0
+  ExperienceImages:
+    Thumbnail: {fileID: 2800000, guid: f1b72412950452f4b81227fbad82dd73, type: 3}

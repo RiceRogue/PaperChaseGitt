@@ -1,0 +1,13 @@
+{
+  "displayName": "Paper Chase",
+  "description": "Chase Origiami down with paper planes!",
+  "clientIdDev": "QZhnJpJ9m0rClWl7wDHt9g==",
+  "clientIdProd": "QZhnJpJ9m0rClWl7wDHt9g==",
+  "clientSecretDev": "UVpobkpwSjltMHJDbFdsN3dESHQ5Zz09",
+  "clientSecretProd": "YmlFbXh3dnd4M3pDck5yVW9xaWk5NVJyTGxZY21XWFVEb1FhQ1U5dXJYaz0=",
+  "vsSavedVariablesJson": "{\"Kind\":\"Flow\",\"collection\":{\"$content\":[{\"name\":\"highScore\",\"value\":{\"$content\":256.0,\"$type\":\"System.Single\"},\"typeHandle\":{\"Identification\":null,\"$version\":\"A\"},\"$version\":\"A\"}],\"$version\":\"A\"},\"$version\":\"A\",\"$type\":\"Unity.VisualScripting.VariableDeclarations\"}",
+  "vsAppVariablesJson": null,
+  "version": "1.0.0",
+  "mainSceneAddress": "PaperChase",
+  "experienceAddressableKey": "dd1c6d0f5f303317c1df3dad81e8ee8508ff57777735319a5e10cdbf47f74cec"
+}
