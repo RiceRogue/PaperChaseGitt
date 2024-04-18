@@ -1,0 +1,2195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  m_EditorClassIdentifier: 
+  m_GroupName: 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5838b3f0cba28b44fac4f2bcb56d5f72
+  m_SerializeEntries:
+  - m_GUID: 1f16e863d97b3ab47813781d0abd940b
+    m_Address: ExperienceSettings
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 69ff4abce80fd2949a04ff6cb055a278
+    m_Address: layer_Ground1cc0f254a2c535401
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ef00ba3dde0fd4645a92be39a3b15bb3
+    m_Address: layer_Ground2cc0f254a2c535401
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 996a1c19fa0e42e4ca0df56b67bcd3b1
+    m_Address: layer_Ground3cc0f254a2c535401
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 6a52726fb5ea4f54e83db2b963fc01a0
+    m_Address: PaperChase
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a6491dea443cfd54893e440aaac343e4
+    m_Address: SimpleNatueGround
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f2540e96d46c11d458639feba773fd58
+    m_Address: SimpleNatueGroundFields
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: fbccd4dfb06cb25498a3961d79c9f117
+    m_Address: UnlitAtlasRock
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 4e0c3c1784179ed45be484b6c4eb7a60
+    m_Address: Confetti
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: c19cda8207223924b9b1c80e1e7610cc
+    m_Address: CraneAlly
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b453a3e2aa448e840af663fe4028250e
+    m_Address: GoldConfetti
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: cf881542d1844064a9eacac286ce5bfb
+    m_Address: JoystickInput
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 2f28e6c9bd87d804a80dc8b0d1c3fe57
+    m_Address: OrigamiAlly
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 8f226a393243a0141bace5fd6b60bafa
+    m_Address: SoftStar
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 5699d2ef9b9564d4dbeefa88b3586b75
+    m_Address: TraitCalm
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 36bb7d4efa48e6d4693096edb1a98051
+    m_Address: TraitDestructive
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 5d57850a7a2bf6c49bca0a1a08fea468
+    m_Address: TraitImaginative
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 9fe7362eb25de104d8f1023442581ce1
+    m_Address: TraitIntense
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: febf9cef15bf62d49b13a918363a38de
+    m_Address: Wind
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: df3a61d29fa867d43bfe4c596d58dbbc
+    m_Address: DesertDragon 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 5bf325e224a10ee43b4ddb7c2a5f56ab
+    m_Address: DesertSnake 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 5b3e802e17f56c144b1b7d72fc8abefd
+    m_Address: DesertTiger 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 14115eff655a20240a0bcee06dfe6e49
+    m_Address: FieldsHorse 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b7065385bbce3b848b1a81fdcd7c7de0
+    m_Address: FieldsRabbit 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 4c006ef0eec156a438bf003dc04fec77
+    m_Address: FieldsRooster 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 487cd5a4e137dd64f8a2dc09a4a27506
+    m_Address: ForestDog 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 9b614ed21a948ec4090fed9d46c7cc57
+    m_Address: ForestMonkey 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 54c947970b5adc148ad9f9cb0a795bca
+    m_Address: ForestRat 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e333c69ec08c72b4db7c438bc3803ee9
+    m_Address: QuickTimeCanvas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a3ed8872fd72cbd45b6a6c7261760522
+    m_Address: QuickTimeFinal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 7c9903c661ed2dc41abfc94c2a240df6
+    m_Address: Star
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 8a3edd8584fde23419589b9f80d6c54c
+    m_Address: DesertLevel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: eb24ab5ff03da4a46925e86a8fe91f43
+    m_Address: FieldsLevel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: fc5c3f9120d366c49bdbd160e98f6fee
+    m_Address: ForestLevel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f1b72412950452f4b81227fbad82dd73
+    m_Address: 96d59de576536789086c1e0b82fc91a7-origami-paper-crane
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 9c716b8a42e5d8449b41935137a8f4c5
+    m_Address: CardboardCutout SDF
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b8443024357c07747b1492a1fb786d15
+    m_Address: CardboardCutout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 8e026d16a97552c4ea70c1735de788f4
+    m_Address: CircleIcon3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f3ec71d333404ae4984e5dce3fb9997f
+    m_Address: CircleIconOutside
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: c68d319e729e44249bab1cfd3dbf32a5
+    m_Address: CircleIconText2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 53b0103b5c800a44493b6954dc450c3f
+    m_Address: ColorCalm
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 7ab3ddd197822e2448c7cf319f270997
+    m_Address: ColorDestructive
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 48995805ceebbfc4783c513b0a4c359f
+    m_Address: ColorImaginative
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 24942c638381eaf4aa0818fddfa4e602
+    m_Address: ColorIntense
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 08973da61a4ad4542add2e765b8916d4
+    m_Address: DesertFloor
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b97c8bc6391b9654089d650d4c161ad9
+    m_Address: Handwriting-Regular SDF
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 5d1716ffb1263cd42b81039e7678e20f
+    m_Address: Handwriting-Regular
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: fd9524935226e154c9826e750d1b78f9
+    m_Address: JoyStickIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 459ee717933795e47889b65d3f2261d1
+    m_Address: Normal 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d5ada1a574ae12e418dc2b7890dbd598
+    m_Address: Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ebda07a0c83912346a9149da74936f1b
+    m_Address: NormalBG
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: cb915c58baca2c241a98bb1bbe441116
+    m_Address: PaperAirplane
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: aaba4678013249e4e95e8a7b983324e7
+    m_Address: PaperChaseTest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 0f9f73ebfdd5fd24ea33b199852dcd54
+    m_Address: papercuts-2 SDF
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e9418c6a31982194b8dc78524e7b3af6
+    m_Address: papercuts-2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 7fc2aba7b0160fa4790ad3d3ef385296
+    m_Address: Point1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 3bf827056d58ae9418a39f847c5b5b31
+    m_Address: Point2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 342eed6b74d210248880c4de4151f3f2
+    m_Address: Point3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 40cab12b7636b234a9894e7e77cc77b8
+    m_Address: Point4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: aca96ed5eb732fe4393bd6b2b9083382
+    m_Address: Point5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 0266f26538f86694d8ea9437e05fc7de
+    m_Address: UnityAssets
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f1b311fdc6adcbe4ba37b7b981c3deac
+    m_Address: Wrinkled_Paper_PNG_Clipart
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 0ddc3da581aea854da9e7568bcbe145c
+    m_Address: Abilities
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: dade61193d1fa8743925e94913de6959
+    m_Address: CriticalTotal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: eead09f2485fdf4499ddac9af6edf698
+    m_Address: DashAbility
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 03f33f3daf7eb8f4b8cacbe30e546684
+    m_Address: Desert_AI
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 503beef03edc7c74f8b23154f0780762
+    m_Address: Fields_AI
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 82601b58a40a2ba428aa99f1b2eb71e8
+    m_Address: FollowPlayer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f76ff1f12c9e4ac458cc67e95ea0b71b
+    m_Address: Forest_AI
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 1d358101bca9de943a85b63399aec3a0
+    m_Address: Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 5b9fb0aa5452ec54a9113545683ca20b
+    m_Address: OrigamiAlly
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d36327ddc74512341a82c1811e06a0b2
+    m_Address: PaperMovementU
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 894e2f5b4db14ae4497baa9f0104c470
+    m_Address: PlayerMovement
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 50902ba7083d6014b8f4e624c579bb57
+    m_Address: PointClick
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 2aa84d156497bdb48966ddcdb0bb9cda
+    m_Address: QuickTimeFinal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 2e2fca601672ccf4388f53482d28cd4a
+    m_Address: RoomRandom
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 46dbd817717bd3a4b8bc357866081f46
+    m_Address: Shared_AI
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ae49548b8b20d944fa6991d1df15d53c
+    m_Address: Spawner
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e9dbfbcebc278424d80cd913ff02ab70
+    m_Address: SpinPaper
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f1da9ed395bd7a84d8b9c829dd316cb9
+    m_Address: UnfoldCanvasQT
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f4be07555ce134f40b357bef161c37a6
+    m_Address: UnfoldQT
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 2a6c46a06dfbaf64ba6c90da74864785
+    m_Address: README
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 3e56423e1fe71f94ea97f5bb2004a7e6
+    m_Address: SkyNoon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 988a47c87043b1f4597329d87c8c5f9e
+    m_Address: SkyNoon_Back
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: db891bbb0f035a340a64f1550499d24b
+    m_Address: SkyNoon_Front
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 1ded1ac4a932ce548b131efe140dee3d
+    m_Address: SkyNoon_Left
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 4f6bec75bfe65ad49a0826debe902b30
+    m_Address: SkyNoon_Right
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d8abefee4b4a16546abf8b0a732a7e40
+    m_Address: SkyNoon_Top
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 93caadf4359ae8143aad35b3145d31af
+    m_Address: SimpleNaturePack_Texture_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 5528351815fd4c04abf537f22c7e18f1
+    m_Address: Branch_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d8ea93d2d4757e444a5349f4bc849128
+    m_Address: Bush_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b5a80b3e2a089b841b155d7c7f461e7c
+    m_Address: Flowers_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 8ea980fdc4aa5e749b000c1a0d4b9bbc
+    m_Address: Flowers_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ad3119cbd6dce024e8460ef32dec49df
+    m_Address: Grass_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 638dc165572d2a84081d13ce1afb4d52
+    m_Address: Grass_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 57d3eed6d2253d24994d5ad37e00aedc
+    m_Address: Ground_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d062f5c56ffb55c4f832432ada269abe
+    m_Address: Mushroom_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 6c890c97a154a474082af84a379dffce
+    m_Address: Mushroom_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e9089b1db16b58f4282a94e020b9c0e8
+    m_Address: Rock_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 3a775dc2c1a334b45a5667a56fe92c23
+    m_Address: Rock_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 14125b656fb71fd4d9d65bfe344107ad
+    m_Address: Rock_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 33ebf3440b12ec245bd008cd464f8d9a
+    m_Address: Rock_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: fa2e670bb3648a84b9df8d16da25b85e
+    m_Address: Rock_05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 768be665aba8b4e4aae7a973ae9616cf
+    m_Address: Stump_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 6c7eaede4efc960409fb9ef2dfb77f29
+    m_Address: Tree_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 4471b1f7f824e4d44887e1364c6fc61a
+    m_Address: Tree_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 69f0af3a0a6c73b4ab4b89eb82cdc488
+    m_Address: Tree_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 83e8d2542718a2e49a73d71c3a5fc685
+    m_Address: Tree_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b9de24523a11d714db3851b5f0f9d527
+    m_Address: Branch_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 3cdafb3c2f54d434894928d72d282874
+    m_Address: Bush_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ac8efb728f1fb9b4092c4df591c827ca
+    m_Address: Flowers_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 299e7a1cb6456cf4fa6079cf5978df9b
+    m_Address: Flowers_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f1fc5bb90ac285e4486771552d63bcb8
+    m_Address: Grass_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ffbddc4ef9676cc419e81e06aaa836d8
+    m_Address: Grass_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e2e682b966e3f644392ffbfab511e0e2
+    m_Address: Ground_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ff62b58c5a9ea164fa8ddf8038e10cd1
+    m_Address: Mushroom_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 494f6d43e170e9145bc7865d243ee00b
+    m_Address: Mushroom_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: c6308cb7062fac34e8e50600086b12a1
+    m_Address: Rock_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: cebfacc247a640945a2c30b442202fca
+    m_Address: Rock_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 0fde05fa0f3321942a21896ff4f0856f
+    m_Address: Rock_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f02116c209ecd9e488fc4d2cd8996133
+    m_Address: Rock_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a778b631c6253a04899cb31bad047c81
+    m_Address: Rock_05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: eebb56c82efbd8d4bb0eb6bd925a0e9d
+    m_Address: Stump_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 88f2fd29f58b9734683512546acec310
+    m_Address: Tree_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e289bf5debb17f6459818c207d781953
+    m_Address: Tree_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: c60edd51c065ceb46b345849a03bc106
+    m_Address: Tree_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f0c16f0ea935ea64297ca1d4d55d9746
+    m_Address: Tree_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 28a51d508c86a8948b59df81d5188b17
+    m_Address: NaturePackLite_Texture_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: dfbc2ece44a063d4ea9ba44278ccadca
+    m_Address: Environment_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: c283e3e8551cf9841bbc83657a168bc8
+    m_Address: Skies
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ee93b79a64d9fb94caff170e3e76794a
+    m_Address: Water
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 0f2e0f4ee7964964d8ecedce134fc290
+    m_Address: Animals_Sign
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: bd3292034097e454a91893e8a7532f27
+    m_Address: Branch_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ebd2ed5eb87ccda49b76554d6dd91460
+    m_Address: Branch_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 037cabecf826b684ebed012479c2acc4
+    m_Address: Branch_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 524424643e0b6a94bb5365cf35b9b705
+    m_Address: Branch_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b8497456a0162bb4fa7056f9000cf45d
+    m_Address: Fence
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 2f3e88a796323a24397f5548e432b93a
+    m_Address: Grass_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 32d9569a6e9f7bb449727a7fc463ac76
+    m_Address: Grass_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 6bf377fd76930b74e82198be981aad06
+    m_Address: Grass_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 21eb28e56ac4a46418a5066079cea1bc
+    m_Address: Grass_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 9306ccfe044ed9d4ab477322043fdb1b
+    m_Address: Intersection_T
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: c53589fd05733bf4daa37677a3e6a829
+    m_Address: Pine_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 1435bc0c1eb87e34cbf37004bcb5f371
+    m_Address: Pine_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f46b8032d681ce14fabc95e15c32a959
+    m_Address: Rock_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 72f53497a78cb094da1de89eaf990df4
+    m_Address: Rock_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: bd3902d22e225d2418a3fb59004719d8
+    m_Address: Rock_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 674a46ec73e215a42868c91588af4a58
+    m_Address: Rock_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b8c83e1f89fb1f343b74be7bb3f38303
+    m_Address: Straight
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 47aa73de0db42a24c90deb4a8c55b88a
+    m_Address: Straight_Pipe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: fd7eba3eb1160b6408a371d3796e921c
+    m_Address: Tree_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 7c17e9f5a62c2a5478a2ff30ca30f1eb
+    m_Address: Tree_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 7f1e2ae58c5972e4085a61b1acdedaff
+    m_Address: Tree_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: c4f2ba8d85e1cfe45a56e0dddda36bf9
+    m_Address: Turn_90
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 400d8db5104338b428633f2079c1b88e
+    m_Address: FS003_Day_Sunless_Cubemap
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: fa3abc8ba505ce04fbb1924c332fc4e1
+    m_Address: DesertDragon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 197bb5e7725f1f644bb73c8c917e67eb
+    m_Address: DesertSnake
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: fa763a76139786e48b299d7236c1166c
+    m_Address: DesertTiger
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 81739c313d995a148bc5fbf5d09a8139
+    m_Address: FieldsHorse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 179602ba1eb6a064687838807d286645
+    m_Address: FieldsRabbit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 6c9db70c883978645bdb060847f5b42d
+    m_Address: FieldsRooster
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 821bdb56c4110c841816df2632335cc6
+    m_Address: ForestDog
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 13ab75576c9285f498790e76c1a87c90
+    m_Address: ForestMonkey
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 3cc9be1e4de713c4192e87916b6bab03
+    m_Address: ForestRat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f3ff74eafceeff34485e7c2fbf3b55fa
+    m_Address: AvatarLoading
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 45ada4a65740225409318a0c94bb7ac6
+    m_Address: Gem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 017f02b2e34ac0e468e4db64a57d1d61
+    m_Address: goldSOund
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 64004d31411362c41bbbd0bbc26ecbac
+    m_Address: pageTurn
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 36a3cab159c179e4984735c2425536c3
+    m_Address: Paper
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 9e324abc2bd9e1d43a36a70f3603c2e9
+    m_Address: paperFold
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 7a6cf6eaeae5f7d4a9c2736fe28ed80e
+    m_Address: PaperHop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 127a004ae8591a24185fd27c8c9e8bd9
+    m_Address: sound_ex_machina_Button_Click
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ca0b324a5e7f81b49bfb2bbea13c9d8e
+    m_Address: Wind Whoosh Sound EffectCut
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: aec9e984b250d664d9750ad26d753ea6
+    m_Address: WinSound
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d16c7689b5520854aa216134add3413d
+    m_Address: zapsplat_foley_paper_sheet_a4_slam_down_by_hand_on_glass_table_001_28576
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b3b64fffd0a01784bba52106fbea62f1
+    m_Address: Crane
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e852a6b66b86e9a4ea1fdeb1ccc625bc
+    m_Address: Dragon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 4e58ae21638664c40b41bfceac2427a0
+    m_Address: Goat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 5d891f94d48551e439ac5b24a9ec00cc
+    m_Address: Horse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 542eac6dcaa12ba4aae6437db06b46ee
+    m_Address: Ox
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 4242dcc21ff0bc1479e2bde7b663c464
+    m_Address: Pig
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 36dbe61bd75ee1247b4f749534847ff0
+    m_Address: Rabbit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 96bace41c6a85b6479d537902bdcd0e8
+    m_Address: Rooster
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a14fff62ccb8dfb4cb30aa2440d7e680
+    m_Address: Snake
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: fb573fe406c53c740acf51407165ee68
+    m_Address: Tiger
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 932bfbb102946e04796ee9ade9385119
+    m_Address: Blank
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: efe6fc25350958c479cd9fcde7e565f9
+    m_Address: Green
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a5ab27f24d140594197755b8c9ee7179
+    m_Address: Material
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: bc0cdff0b0fdafc46bbdbda4b3717d71
+    m_Address: SoftStar
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d945c681c4504df439962c1a6f33d8af
+    m_Address: Cold
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 222720b73e34a9e428b080b456040f26
+    m_Address: Colorsheet Tree Dry
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 894583d895d58b444b8e8b67169bd2a4
+    m_Address: Dry
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a62e8da5194101042a4d89028ef6f912
+    m_Address: Fall
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: fe3e3b8ebc1a32647b48b7ea88f534a8
+    m_Address: Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d2821924b86cff5439f12b0289585dbf
+    m_Address: Tree Type0 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 6b63ca9c7bc00f24b81b6cb48095b9a9
+    m_Address: Tree Type0 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 5648c7aa655120f44aab862e4a038f3c
+    m_Address: Tree Type0 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b4f0e46a9f630054c925d3d92d45584e
+    m_Address: Tree Type0 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: c8fd0d31d77530344baa4b459b8e221e
+    m_Address: Tree Type0 05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 58e56545a2d219944b78729eaa444a51
+    m_Address: Tree Type0 06
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: cb132eeaea305bc478721cc9b5cb57f8
+    m_Address: Tree Type1 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e063977d54ec61849aacc1b8e9eafc6f
+    m_Address: Tree Type1 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: dec71bb4e66221144b5db0af9e0f39d5
+    m_Address: Tree Type1 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 0ddb82da3485fac4dbfe187acb70a610
+    m_Address: Tree Type1 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f6c597498257ae843adeb6a76dd3013e
+    m_Address: Tree Type1 05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b3d80aad1767322488af8777deb5fd54
+    m_Address: Tree Type2 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 2ea73da7fe37e7b42bb77b26e97df11f
+    m_Address: Tree Type2 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 770b1e3321cb97344b7b5f9ccc2bfe56
+    m_Address: Tree Type2 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 49a13064a6f46f1438de87926fc5fc42
+    m_Address: Tree Type2 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 08370ae33fad3da4a8357631f8a9f5ae
+    m_Address: Tree Type2 05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 5166d739d26f73246a2623515169479e
+    m_Address: Tree Type3 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 68218c07874adef4fbe8100958fd9117
+    m_Address: Tree Type3 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 35c5b6683953dc54f99f68b4a16819f7
+    m_Address: Tree Type3 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f52689dc8ea801b46874ff4a4a6c328a
+    m_Address: Tree Type3 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 0658909382c77d041b643ae92bd27b82
+    m_Address: Tree Type3 05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 9ddce011fb3cf3341b8c252c9b00cb4c
+    m_Address: Tree Type4 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 20daf9d902df0d749bd16ac37a353854
+    m_Address: Tree Type4 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 10155e34e1176c3489486fbf0cef1736
+    m_Address: Tree Type4 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 361dbd13abe581240910f764f838d930
+    m_Address: Tree Type4 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 05f4a294fb6ca7e4c87b33948d1ebec3
+    m_Address: Tree Type4 05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: dfc73e1f73ca4d64da934fb2dcb38e9d
+    m_Address: Tree Type5 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: eec2a0a67f1c8b243a386ec359eda522
+    m_Address: Tree Type5 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 1e97612a294865943926d93961f9c229
+    m_Address: Tree Type5 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 2ab8bbefc4a0d4948b52fdcbd7c3489b
+    m_Address: Tree Type5 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d508de2584ef7734aa500f5c47210151
+    m_Address: Tree Type6 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a502c85dd672f8d428b76fd14220881f
+    m_Address: Tree Type6 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f6e7f2100b2c5544d94468d977d66b29
+    m_Address: Tree Type6 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 66f0726e43c72a94aa9dc7aa4b6cbfe0
+    m_Address: Tree Type6 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 173d123c3e337ee4c9d101f4c77225f5
+    m_Address: Tree Type7 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 819c10f136958e549bf2eb4702b8f111
+    m_Address: Tree Type7 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 32b2d01a42b6ac84d9e11d5f05c569e1
+    m_Address: Tree Type7 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f59e9c62851aaed46bb0599645bdfdc2
+    m_Address: Tree Type7 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: aee731a00031fcc4d9d2b075e528e050
+    m_Address: Tree Type0 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 5c3cbac9d5eae3844a928d36e6dbd1a6
+    m_Address: Tree Type0 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d537224908c5f444f86c9e57e0c7234c
+    m_Address: Tree Type0 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 8a7cf5ac7b4145441a3dca86f869b09e
+    m_Address: Tree Type0 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 9469bb1d3aa88ca40aa4079e96a27f8e
+    m_Address: Tree Type0 05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a9cc5585b9634a9449920c03ec6bc243
+    m_Address: Tree Type0 06
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: fc05c8bfad7df5a4abe568aca7403b9e
+    m_Address: Tree Type1 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 702740a5e4ac1ee40a1888d3b62faa91
+    m_Address: Tree Type1 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 55ca4401075700d46a23ae8179a79579
+    m_Address: Tree Type1 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 8ed1fa325ca228645ad26dd6eff14768
+    m_Address: Tree Type1 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 76be61eeff2e7164cb99e1cf8cf0c22b
+    m_Address: Tree Type1 05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 78c29697749a6d44e964f9a0cf83d77a
+    m_Address: Tree Type2 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 5037d6ea184d2f640bf78dcf9894a269
+    m_Address: Tree Type2 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a0c53a09e4a37b5409b1248ebce2c376
+    m_Address: Tree Type2 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 99a48108c5a1932488c06e519f6097f4
+    m_Address: Tree Type2 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: c7bcf19bbfa57ed4ea9147dff66d5542
+    m_Address: Tree Type2 05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 62724a8cd2495b14f930b7129c3bc47b
+    m_Address: Tree Type3 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 7641c7e8354e2c44cab6432d9d2c6d1b
+    m_Address: Tree Type3 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a1d34f7914a1d8148a0ce7262f7ba394
+    m_Address: Tree Type3 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 7c5aafe3fe2c6ef4a9150f7f44653760
+    m_Address: Tree Type3 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 87a6cef862ce2cb4a88c5ca5d5af5d2b
+    m_Address: Tree Type3 05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: fb8ae0828a555f74996970b8d0495f15
+    m_Address: Tree Type4 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 38ade0ba7c293f14a9b1b610879e9390
+    m_Address: Tree Type4 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b1b1573cfe717c04caad3e631288f7e9
+    m_Address: Tree Type4 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 613b4cc8c589ad8458e792ae21891bef
+    m_Address: Tree Type4 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: aec50823ac9be1b45b5778c3b6c0f51a
+    m_Address: Tree Type4 05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 11d469914a0208343b39f04223416f9c
+    m_Address: Tree Type5 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 446fc4730aadcd04985c8dafaaf0c501
+    m_Address: Tree Type5 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 069e1e44b643edc4fb4a9d4311a78fb7
+    m_Address: Tree Type5 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 1e4e7284c1efd5f4eb702c799353072c
+    m_Address: Tree Type5 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ec7286e0017272441a3dec9205cb8daf
+    m_Address: Tree Type6 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ac00d368a6864c04791bc85c5567bd51
+    m_Address: Tree Type6 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 98653de49a7044442972e6997c40db16
+    m_Address: Tree Type6 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: eed418c5a3c80d448b4cdbe594ebe3c5
+    m_Address: Tree Type6 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 3fd9507fb16d56044bcf520c1d14427c
+    m_Address: Tree Type7 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 107cc8771223daf48be99527559937ff
+    m_Address: Tree Type7 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 2327ed4809c34cf4c97a5316db3d4796
+    m_Address: Tree Type7 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 3c74caa0496b18d4ba0a1009ebb4c992
+    m_Address: Tree Type7 04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ed297eb21cb5e5e4188600ba2d272554
+    m_Address: Colorsheet Tree Cold
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 9236635f319ab034fa33215e8eaa903a
+    m_Address: Colorsheet Tree Dry
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 99897f7919c46fc43969a2a130434315
+    m_Address: Colorsheet Tree Fall
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 8ba8b94b5ab0c214fa2810a7df98a1a9
+    m_Address: Colorsheet Tree Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e7768f54d1f39eb449aff729ac8ca838
+    m_Address: New Terrain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 65e9640f5d25b3d4ea00cf817400c182
+    m_Address: b890b6b7d54a1054d42bcc033b5db745
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d8c68e9822ac2fa47ad88fb55d73ca20
+    m_Address: Ground
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 6c0e6bece594aa045bb7d631e1e12743
+    m_Address: Origami
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ac2ff3ddaf0f36b45bb098610da4758d
+    m_Address: Origam_Black
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 36ef8bee3b1ec67449ff596ce8d00707
+    m_Address: Origam_blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 397ff9c94add56c4eac4cdddc65d52fa
+    m_Address: Origam_brown
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 7eea9a555302b2a4ca40c81c25ece7a8
+    m_Address: Origam_col
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 58733586f3096e646aa59db0301c0394
+    m_Address: Origam_gold
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 759c9ffe486b97948ba26c7857e82977
+    m_Address: Origam_gold2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 507ec159dbf1634489af3c88c554dc4e
+    m_Address: Origam_gray
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 42fb2ac53fa5e814ea1fd933c95e9e21
+    m_Address: Origam_kiwi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a3b0e3bb4b97093499953b10830b5f59
+    m_Address: Origam_orange
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ddb050cc89b1a6a4789e71df813b6f10
+    m_Address: Origam_pink
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: fb881332404674f4fae9c888043924e1
+    m_Address: Origam_Purple
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: af53e3a7405b3a141a93bf007fb281dc
+    m_Address: Origam_red
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d0401cda03149c04d8b9dff75e760d00
+    m_Address: Origam_White
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 799f653f08c90c94c8b0126557609836
+    m_Address: Origami_All
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 6cf35b21de49c394ca545a23e604f44a
+    m_Address: Triangl_base
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 81b6e18006707074da96e557e60b3fc1
+    m_Address: SM_animals_sign
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 31a13ee2e1cc2714f8b3c4a7f146a239
+    m_Address: SM_Branches
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 705fd60fa80124045a2001a1f14c0ee0
+    m_Address: SM_Grass
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f2a381e30dfffbb4e91456c1cc1b4963
+    m_Address: SM_Pine_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 83cedf7dbfd0f4e46b5caf81a9967415
+    m_Address: SM_Pine_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 2e9ef120b7b7e834d8873c39ecde60bf
+    m_Address: SM_Road
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 7ea8ace6ec6fbdf4eaf920ade68b9f10
+    m_Address: SM_Rocks
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 6f933af4620af7c45937e906a400920f
+    m_Address: SM_signpole
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b50e689e0e34f5342b2c6effbd091f85
+    m_Address: SM_Tree_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 3f89a9191131d594c9631bcf976babae
+    m_Address: SM_Tree_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ff4f4a79524502045b5235ff4e6dd2a7
+    m_Address: SM_Tree_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: c36dbfb5156ebb746a0d4820345dd8aa
+    m_Address: T_EnvironmentAtlas_BaseColor
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a5e7f0d1183e204408ef0de75964ebd8
+    m_Address: Desert_Plant_01_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 4f7e1c7cb8176cd49ae7638f522a7ca6
+    m_Address: Desert_Plant_02_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 3fb679b169dc48e438767d825bb13bfa
+    m_Address: Desert_Plant_03_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 61584143362fc104fa93f17abd24077d
+    m_Address: Desert_Plant_04_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 9053558cedb2b71488bd85b9e197e6b7
+    m_Address: Desert_Plant_05_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: abaff10aaa76bbb48b6842fd8e4b4c05
+    m_Address: Desert_Plant_06_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 9e8c4ccb0cc11e34cbd55ef4bab0af88
+    m_Address: Desert_Plant_08_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 1f8e63606b6742e49968c61dab0999de
+    m_Address: Desert_Plant_09_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 63d699f3b3a090541b1bf88a4634289d
+    m_Address: Desert_Plant_10_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e61a8878144df8c4bbacae21e0a702b1
+    m_Address: Desert_Plant_11_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 4d71637415150a74ca66d1f294cf7404
+    m_Address: Desert_Plant_12_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f4c1d190feb841549bef574ad7123716
+    m_Address: Desert_Ribs_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 67c55ba466177204287d21122576b3aa
+    m_Address: Desert_Rock_01_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 8cd473515a8c6534cb1d28a146f8ff94
+    m_Address: Desert_Rock_02_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a343fadbd2ffd6a478b0cabb0ecf719f
+    m_Address: Desert_Rock_03_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f01c2a04e1ab47d4aa66b6125790ba27
+    m_Address: Desert_Skull_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d97690d43e1b27b47b644c6d78f9a2f1
+    m_Address: Floating_Island_2_Bioma2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: aa797407b95899f4aa3c0a3710c559a0
+    m_Address: Floating_Island_3_Bioma2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 92b933a8d45868e4a9a7f2d38280b8f5
+    m_Address: Floating_Island_4_Bioma2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: c938d99da069c1947a90184fddb08dd2
+    m_Address: Floating_Island_Bioma2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 70860d0459b760340a9184be0506b95a
+    m_Address: Floor_Desert_01_Big_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 9452ace81bbfd944ba9b66e69681de13
+    m_Address: Gate_Desert_Big_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 14fc39c9cfc431949a71cb5354b732b4
+    m_Address: Monuntain_Desert_01_Big_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 40c991bbd6994e64eaca1f20b62aad61
+    m_Address: Monuntain_Desert_02_Big_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: df611360f0714eb4dadcf1afaaef6b21
+    m_Address: Monuntain_Desert_03_Big_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 867a234ab4b363d418597d87d217762c
+    m_Address: Plant_Desert_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 15275386ff8940044b102eec2aa2a281
+    m_Address: Rock_Desert_01_Small_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 07b69e264410fe54c8640fb346c86ece
+    m_Address: CrossPlains_Diorama
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b4a88aee496a96d49aee9abc46419cad
+    m_Address: CrossPlains_Floating_Island_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d1a5096432363604a9505a029c13058e
+    m_Address: CrossPlains_Floating_Island_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 3edc0ebb2b5c6e94192f0acd8c90c427
+    m_Address: CrossPlains_Floating_Island_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: cea01bb8ab40eab4f8f42bc74e39e9cf
+    m_Address: CrossPlains_Floating_Island_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a4f5d4b2af55e4e4d8637b2a8848162f
+    m_Address: CrossPlains_Gate_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 9b8e86e3dcb69a04abe7f4eff1461daf
+    m_Address: CrossPlains_Monuntain_Desert_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b5af7c31aab1627418db38190efa3109
+    m_Address: CrossPlains_Monuntain_Desert_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 7f3d239f1052c6e4a8131af5983eeb38
+    m_Address: CrossPlains_Monuntain_Desert_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 9fa49baa8ec04224b87fc97cb53be1ae
+    m_Address: CrossPlains_Plant_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 81d8924183cb4bb4b898ab75aeecb8ad
+    m_Address: CrossPlains_Plant_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 01a60b79a8355b045bc3037a12c9333d
+    m_Address: CrossPlains_Plant_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ecb535e3c20b47148b695b0341d7016a
+    m_Address: CrossPlains_Plant_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: fe00a14b385d7344ab164c92f1a46e67
+    m_Address: CrossPlains_Plant_05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: c444064da803adf4a9c1b2c45b8d8e86
+    m_Address: CrossPlains_Plant_06
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: c57ddcf2e214de54aa3bbd3aaddff512
+    m_Address: CrossPlains_Plant_07
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e604cb8188dec9a4dbf291a72b06a639
+    m_Address: CrossPlains_Plant_08
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e4c10aef563723a4f84ebe34694c8647
+    m_Address: CrossPlains_Plant_09
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a52fb49529438554fb74515043adb565
+    m_Address: CrossPlains_Plant_10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 3b70de28b59a8004d900479a1b213ab6
+    m_Address: CrossPlains_Plant_11
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 1a118ca687daa09499984337aaff31c4
+    m_Address: CrossPlains_Ribs_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 9a297dc57e88b464f94070684a8ae8ab
+    m_Address: CrossPlains_Rock_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 0b2a412efe6f6984c87ea0f626de8e0e
+    m_Address: CrossPlains_Rock_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 8af1fd6ea6147d849931f97649fb8045
+    m_Address: CrossPlains_Rock_03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 5f908e007535b2b42989a1adc759f01e
+    m_Address: CrossPlains_Rock_04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: bbc9270084294ba4da8aa8f702727ef5
+    m_Address: CrossPlains_Rock_05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e6632668fbb0f7b46a919e92cb22be7d
+    m_Address: CrossPlains_Skull_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 1c161f4059197e6438552bbf13749990
+    m_Address: Gradients_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 88a830f89c355c84db844cba6789b624
+    m_Address: FS003_Day_Sunless_Cubemap_back
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d33547bdc1205634284abdfc244313f0
+    m_Address: FS003_Day_Sunless_Cubemap_down
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 7bcf5c7e04de167409e5b6afd758bb63
+    m_Address: FS003_Day_Sunless_Cubemap_front
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 511b7abba6c662c40a0db075afdeeba7
+    m_Address: FS003_Day_Sunless_Cubemap_left
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 06d134190fa2eb846bea51f451f1787e
+    m_Address: FS003_Day_Sunless_Cubemap_right
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 8cf7bf24e6050624db28799a75b37830
+    m_Address: FS003_Day_Sunless_Cubemap_up
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 03450c74b7437594aa7cbc2502121373
+    m_Address: Cloud_Wisp_Half_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 0d77e7dfe6c8918409bb739458ba8a9d
+    m_Address: polydesert_atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 6bedf70372b395b4eb737053c608642f
+    m_Address: aloe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: aee8589b8394086419d7bffb6e9dfa8e
+    m_Address: cactus01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 6b63de6b09241094791f5ebd528f64c3
+    m_Address: cactus02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e8da7eae19d4c5f40bea080ef8974ee0
+    m_Address: cactus03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 4a737f02ce05c7f408a64204e6f929e8
+    m_Address: rock01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 6c262484852eac84785d71207b841d95
+    m_Address: rock02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: fbaa04fc5cd86f140a9670f8828d15c8
+    m_Address: rock03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: d8e7de35f54021c42bad360179e8de0d
+    m_Address: rock04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 1aee68255b1c16648abad52f8510f673
+    m_Address: rock05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: fbbd04c46204e58448b2484a0038aab6
+    m_Address: rock06
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 948c8a9cec5543a429f06d2596378d1b
+    m_Address: rock07
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 6f5ce57e18087864486ff13a7184c134
+    m_Address: rock08
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: ce4192f2b3cb01b4ea33251fa9ea76ed
+    m_Address: aloe_m
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 5da07da6c25a65249aa4f03d5ed92684
+    m_Address: cactus01_m
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 5c243d3591422814a81656730b54873b
+    m_Address: cactus02_m
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 628ca882a5b7c144799112fa3339945c
+    m_Address: cactus03_m
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 285b9972cdfec2a41a57161bddbe78ef
+    m_Address: rock01_m
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 8f281d16e094c6a4896e37696e49dea9
+    m_Address: rock02_m
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a1f403feb3451c14c8d72d495a993cb1
+    m_Address: rock03_m
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 91b67e25ff24e274980ffcba036fd290
+    m_Address: rock04_m
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 86ca6560575669f47bb9427d4e937af0
+    m_Address: rock05_m
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b4b140ef271131646b1b285ea1904282
+    m_Address: rock06_m
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e7bddad50f1e07247a818242d1afcf74
+    m_Address: rock07_m
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: caaa7ae63a9ddff43a592237cf4c65fc
+    m_Address: rock08_m
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a58be5973538d264eb695c3db32e1d17
+    m_Address: Aloe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 0e4890f47005c3a4fbe1f368c4939d86
+    m_Address: Cactus
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: df64b2ddea7920a40962d7aac24b2869
+    m_Address: DesertRocks
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a0eb1ba83e4b048409871a19b9850bb6
+    m_Address: Flower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 0d2b752cb7a0cfa4883178ad88553bc1
+    m_Address: FlowerCenter
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: c0f96e6b229bfe24d85d8b8190d83096
+    m_Address: Ground
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f5862a071b976404b90477399414fa74
+    m_Address: Thorn
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e44f8bbf9778c484ca4d63d534614d67
+    m_Address: aloe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 62a4c8a915a980040a05c9e8e080236a
+    m_Address: cactus1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 2b63748d5982bde4ebdd93a3a4ba6f76
+    m_Address: cactus2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 1aec1266c0ec1804c8c87f521a7cfc61
+    m_Address: cactus3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: afda6ded61894c04ea11228d2b4323c9
+    m_Address: rock01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 058a60518d9f0314cbab4b04498acdf4
+    m_Address: rock02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 900eb47d1ac08b645ab586656712ea99
+    m_Address: rock03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f0047113c601ad647a5e275454470442
+    m_Address: rock04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 04e86de541c64d74f909d6c010405f9b
+    m_Address: rock05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e4b18b6fb72b43c41b46a3e43bfc6a0d
+    m_Address: rock06
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 7d39097ddbb0a5844beb53d63bfbe52a
+    m_Address: rock07
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: acdaefb8a11ff7f4bacce3c8b0ceb3e1
+    m_Address: rock08
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 8a13b3dbbf597744192ac4a84ebb93c6
+    m_Address: Aloe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 575780dd1f55b7941803be0767c1e36e
+    m_Address: Cactus1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 65da5bb2d6e288b41baa018d8fec58f3
+    m_Address: Cactus2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 50294217694c1a145a9a3b86f853c022
+    m_Address: Cactus3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 3e63f970932e56649b966445efd75396
+    m_Address: rock01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 91af7a3706671b943974b6ef43812fab
+    m_Address: rock02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e3a2b024936fe54498e16bf28bfd0e90
+    m_Address: rock03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 37d65ed67498b304ea4da8a6b7c2d9b4
+    m_Address: rock04
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: bf07739386a93f443b373a919b97fbe7
+    m_Address: rock05
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: b7bdd751d1270e14291b000d68d117c1
+    m_Address: rock06
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 802bd3dc24c20394ca2037c1b9c882a0
+    m_Address: rock07
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: a45f923de9555884cbe160883ce87a74
+    m_Address: rock08
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 627fd1662bf5fb849abcebcc237e15fa
+    m_Address: Ground1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 6464a51710b44ce4489a17aac3560b65
+    m_Address: Ground2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 34747b8529f143c48a347ad5aef7f8df
+    m_Address: Ground3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: f136c764383697f469cb30fcba56597d
+    m_Address: Cross_Plains
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 18bf04c656d61df4585143ef01436a65
+    m_Address: Plane_CrossPlains
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: e855fd608494a524f87897e4e1192b24
+    m_Address: Blue22
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 66655ef125afcbc4aa8a548d1ef6fec5
+    m_Address: Blue22
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 191ffe92f4abdac48b806a8fef938f11
+    m_Address: polydesert_atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 281264035bbc0cc4aba11784ea2f6cbc
+    m_Address: defaultMat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 112298cd96534a44fa112c83939ac783
+    m_Address: polydesert_atlas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  - m_GUID: 7762fac154281ce40ae3cd0b4c18cfb6
+    m_Address: defaultMat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - 5c53069a8a05a1c66a5ee5cf6f50c524a2e9b47d44ff0d9aa717271baf153c45
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d03d20194c18b4c8eb96841c49d91db2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 07f2af6d04ad8844798ddb7121a8808a, type: 2}
+    - {fileID: 11400000, guid: 551bb4e5ff1dd3a47ad72abecd99bff1, type: 2}
