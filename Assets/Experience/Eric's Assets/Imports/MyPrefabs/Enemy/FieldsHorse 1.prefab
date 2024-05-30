@@ -93,7 +93,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 7a6cf6eaeae5f7d4a9c2736fe28ed80e, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 347074c6dbbff1d4c8a9022b1d8de28d, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.5
   m_Pitch: 1
@@ -349,7 +349,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 64004d31411362c41bbbd0bbc26ecbac, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.5
+  m_Volume: 0.4
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -357,10 +357,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 0.1
+  MaxDistance: 8
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -393,7 +393,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0.5
+      value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -444,7 +444,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.9999999, y: 0.8466567, z: 0.47}
+  m_Size: {x: 1.12, y: 0.97, z: 0.84}
   m_Center: {x: 0, y: 0.44689503, z: 0}
 --- !u!1 &3249379719194434421
 GameObject:
@@ -858,9 +858,41 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4531104235746212}
     m_Modifications:
+    - target: {fileID: 93956711457873682, guid: e333c69ec08c72b4db7c438bc3803ee9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 147
+      objectReference: {fileID: 0}
+    - target: {fileID: 93956711457873682, guid: e333c69ec08c72b4db7c438bc3803ee9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -37
+      objectReference: {fileID: 0}
+    - target: {fileID: 3082434284488866093, guid: e333c69ec08c72b4db7c438bc3803ee9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -28
+      objectReference: {fileID: 0}
+    - target: {fileID: 3082434284488866093, guid: e333c69ec08c72b4db7c438bc3803ee9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 353
+      objectReference: {fileID: 0}
+    - target: {fileID: 4059906675191794616, guid: e333c69ec08c72b4db7c438bc3803ee9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: a271fd6e6e48d1d4aaa698c13f2ab36e, type: 3}
     - target: {fileID: 4475331637431029995, guid: e333c69ec08c72b4db7c438bc3803ee9, type: 3}
       propertyPath: m_Name
       value: QuickTimeCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 4475331637431029995, guid: e333c69ec08c72b4db7c438bc3803ee9, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7495424397511854307, guid: e333c69ec08c72b4db7c438bc3803ee9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 7495424397511854307, guid: e333c69ec08c72b4db7c438bc3803ee9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 136
       objectReference: {fileID: 0}
     - target: {fileID: 7568872395918992869, guid: e333c69ec08c72b4db7c438bc3803ee9, type: 3}
       propertyPath: m_Pivot.x
@@ -945,6 +977,18 @@ PrefabInstance:
     - target: {fileID: 7568872395918992869, guid: e333c69ec08c72b4db7c438bc3803ee9, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8010737183373946392, guid: e333c69ec08c72b4db7c438bc3803ee9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 466
+      objectReference: {fileID: 0}
+    - target: {fileID: 8970822635866739542, guid: e333c69ec08c72b4db7c438bc3803ee9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -300
+      objectReference: {fileID: 0}
+    - target: {fileID: 8970822635866739542, guid: e333c69ec08c72b4db7c438bc3803ee9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 232
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e333c69ec08c72b4db7c438bc3803ee9, type: 3}
